@@ -7,3 +7,4 @@ Topics:
 - Commits
 - Branches
 - GitHub workflow
+Version 2
