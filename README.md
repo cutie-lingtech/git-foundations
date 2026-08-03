@@ -1,9 +1,12 @@
 # Git Foundations
 
-My first repository for learning Git and GitHub.
+### My first repository for learning Git and GitHub.
 
-Topics:
+
+**Topics**:
 - Git basics
 - Commits
 - Branches
 - GitHub workflow
+
+***
